@@ -20,3 +20,4 @@ switch (operator) {
 }
 
 console.log(result);
+// test
